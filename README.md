@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayemmhtun 
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning algorithms & python
+- 👀 I'm interested in data
+- 🌱 I’m currently learning python
 - 📫 https://bit.ly/3AKdDw5
 
 <!---
