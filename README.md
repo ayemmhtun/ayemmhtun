@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayemmhtun 
-- 👀 I'm interested in data
-- 🌱 I’m currently learning python
+- 👀 Interested in data
+- 🌱 Learning python
 - 📫 https://bit.ly/3AKdDw5
 
 <!---
